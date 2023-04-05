@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "804406717787",
+    "project_id": "gtgold-45fd8",
+    "storage_bucket": "gtgold-45fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804406717787:android:4920210db6b71048d93e7e",
+        "android_client_info": {
+          "package_name": "com.gtgold_v6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804406717787-1sjc2c1s2mnjkkmh36qi9o2nukkefqvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFbJpc5Cp2NWLCQbC66obITICHQM3QFi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804406717787-1sjc2c1s2mnjkkmh36qi9o2nukkefqvh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804406717787-gg2lp60g7rcdhmrfjjq54fad5inpb4e4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gtgold-v6"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
